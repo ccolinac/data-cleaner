@@ -12,7 +12,7 @@ FROM ubuntu
 ## Build and Tag the Image
 
 ```bash
-docker build -t <YOUR DOCKER HUB USERNAME>/<YOUR IMAGE NAME>
+docker build -t <YOUR DOCKER HUB USERNAME>/<YOUR IMAGE NAME> .
 ```
 
 ## Create the Container
